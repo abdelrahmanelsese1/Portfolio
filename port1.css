@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@font-face {
+    font-family: "Roboto";
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+}
+/* 
+ body{
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    font-family: "ٌٌRoboto";
+    font-weight: 900;
+    color: #000;
+
+}  */
+
+
+.site-banner .site-title h3{
+    padding-top: 35%;
+    font-weight: 500;
+}
+
+
+.site-banner .site-title h1{
+    font-size: 2.5rem;
+    color: #a61c3c;
+}
+
+/* .site-banner .site-title h4{
+    font-size: 1.5rem;
+}
+
+.site-banner .banner-image > img{
+    padding: 7rem 0;
+    width: 20rem;
+    height: 100%;
+    
+}    */ 

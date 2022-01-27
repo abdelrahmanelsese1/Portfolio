@@ -1,0 +1,12 @@
+$(document).ready(function(){
+    $(".nav-link").hover(function(){
+        $(this).css("color","#a61c3c")
+    },function(){
+        $(this).css("color","black")
+    })
+    $(".fa").hover(function(){
+        $(this).css("color","#a61c3c")
+    },function(){
+        $(this).css("color",'#000')
+    })
+})
